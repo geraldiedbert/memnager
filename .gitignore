@@ -1,0 +1,14 @@
+# Prerequisites
+*.d
+#COmpiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+# Executables
+*.exe
+*.out
+*.app
+# Build directories
+build/
+.vscode/
