@@ -1,14 +1,12 @@
 # Custom Memory Manager
 
-A C++ implementation of a custom memory manager to understand object pools and memory management
+A C++ implementation of a custom memory manager to understand object pools and memory management.
 
-## Project Structure
-- src/: Source files
-- include/: Header files
-- tests/: Test files
+## Changelog
 
-## Building
-Instructions for building the project will go here.
+01/04 - min. implementation built with data generated virtually
+      - virtual data on voltage & current are made with some random generators with random_device (nondeterministic) and mt19937 (PRNG)
+      - interesting discussion on it: https://stackoverflow.com/questions/39288595/why-not-just-use-stdrandom-device
+      - upcoming: thread safety?
 
-## Usage
-Usage instructions will be added as the project develops.
+
