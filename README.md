@@ -7,6 +7,6 @@ Work in progress . . .
 
 **01/04**  
    * min. implementation built with data generated virtually  
-   * virtual data on voltage & current are made with some random generators with random_device (nondeterministic) and mt19937 (PRNG)  
-   * interesting discussion on it: https://stackoverflow.com/questions/39288595/why-not-just-use-stdrandom-device  
+   * virtual voltage & current outputs are done with some random generators with random_device (nondeterministic) and mt19937 (PRNG)  
+   * interesting discussion on the two : https://stackoverflow.com/questions/39288595/why-not-just-use-stdrandom-device  
    * upcoming: thread safety?  
