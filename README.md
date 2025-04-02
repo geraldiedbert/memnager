@@ -1,6 +1,6 @@
 # Custom Memory Manager
 
-A C++ implementation of a custom memory manager to understand object pools and memory management.
+A C++ implementation of a custom memory manager to understand object pools and memory management.  
 Work in progress . . .
 
 ## Changelog
